@@ -1,0 +1,13 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Persian poetry",
+      "description": "Understanding popular persian poems and verses",
+      "skills": [
+        "persian-shar"
+      ]
+    }
+  ]
+}
