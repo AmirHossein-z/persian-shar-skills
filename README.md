@@ -1,5 +1,7 @@
 # Persian Shar Skills
 
+[![skills.sh](https://skills.sh/b/AmirHossein-z/persian-shar-skills)](https://skills.sh/AmirHossein-z/persian-shar-skills)
+
 Agent skills for **شعر فارسی**: understand popular Persian poems, and play **مشاعره**.
 
 **persian-shar** explains wording, each bayt, imagery, and common readings — not a general-purpose explainer and not a translator.
